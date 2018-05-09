@@ -1,0 +1,4 @@
+# key: tag
+# name: rtags
+# --
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: enable_testing
+# key: test
+# --
+enable_testing()
